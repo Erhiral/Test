@@ -1,4 +1,4 @@
-package com.los_muzik.utility;
+package com.test.utility;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
